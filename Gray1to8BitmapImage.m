@@ -1,4 +1,4 @@
-a = imread('F:\4.2\Image processing\lena.tiff');
+a = imread('lenaGray.tiff');
 [x y] = size(a);
 b = zeros(x,y);
 figure
