@@ -27,4 +27,3 @@ subplot(1,3,3);
 imshow(b);
 title('Desaturation method');
 
-
